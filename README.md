@@ -69,3 +69,4 @@
 
 Теги HTML- и CSS-документов должны быть валидными: проверка
 на не должна выдавать ошибок и предупреждений 
+Ссылка на макет https://www.figma.com/design/tj7JfWXXpd5poySBgaW1nL/Blanchard-(new)?node-id=0-1&node-type=canvas&t=8uJlqq74CDHLx76O-0
